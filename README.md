@@ -2,7 +2,7 @@
 
 [AWS-Hostname] - Sets the hostname of a box.
 
-[![Platforms](http://img.shields.io/badge/platforms-ubuntu-lightgrey.svg?style=flat)](#)
+![Platforms](http://img.shields.io/badge/platforms-ubuntu-lightgrey.svg?style=flat)[![](https://images.microbadger.com/badges/image/aaronpederson/aws-hostname.svg)](https://microbadger.com/images/aaronpederson/aws-hostname "Get your own image badge on microbadger.com")
 
 Tunables
 --------
